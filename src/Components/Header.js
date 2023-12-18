@@ -1,9 +1,11 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
+// import Banner from './carousel/Banner'
 
 export default function Header() {
   const navigate= useNavigate()
   return (
+    <>
     <div className='p-3 bg-secondary'> 
     <h3>Tamil Skillhub</h3> 
     <div className='row justify-content-center pt-2 pb-1'>
@@ -18,7 +20,12 @@ export default function Header() {
 
         </div>
     </div>
+  
+
       
     </div>
+ 
+    </>
+    
   )
 }

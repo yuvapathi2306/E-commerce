@@ -1,0 +1,67 @@
+.carousel-item img {
+    max-height: 700px; /* Adjust the value according to your needs */
+    object-fit: cover; /* Maintain aspect ratio while covering the container */
+  }
+  .craft{
+    color:#f58e07;
+    font-size: 70px;
+  }
+   /* .p3{
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+  } */
+  /* .p2{
+    color:#D01B24;
+    font-size: large;
+    /* font-weight: bold; */
+  /* }  */
+  h4{
+    color: solid black;
+  }
+  /* @media only screen and (max-width : 600px) {
+    .display-5{
+      margin-top: 50%;
+    }
+           }   */
+/*            
+.text-center{
+margin-top: 40%;} */
+
+.providing{
+  text-align: right;
+  color:white;
+  font-weight:bold ;
+  margin-bottom: 20%;
+  font-size: 100px;
+}
+ .web-mobile{
+  /* text-align: center;
+  justify-content: center; */
+  margin-right:0%;
+  color:#0F0956;
+
+ }
+ .we-develop{
+  font-size: 30px;
+  color: #003C71;
+
+ }
+ .offer{
+    font-size: 120px;
+ }
+.online{
+    color:#000000;
+    text-align:left;
+    /* margin-bottom: 30%; */
+    font-size: 100px;
+}
+.onlineshop{
+    color:white;
+    text-align:left;
+    margin-bottom: 20%;
+    font-size: 50px;
+
+
+
+}
